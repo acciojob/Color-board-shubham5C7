@@ -19,7 +19,7 @@ const container = document.getElementById("container");
         box.style.backgroundColor =randomColor;
 
         setTimeout(()=>{
-            box.style.backgroundColor = "rgb(43, 33, 33)";
+             box.style.backgroundColor = "rgb(29, 29, 29)";
         }, 1000);
     });
 container.appendChild(box);
